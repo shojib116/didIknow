@@ -1,4 +1,4 @@
 First Commit!
 
-And here we go with commit #2
+And here we go with commit #2!
 
